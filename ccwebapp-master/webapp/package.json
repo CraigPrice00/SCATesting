@@ -14,10 +14,10 @@
     "app-root-path": "^3.0.0",
     "aws-sdk": "^2.556.0",
     "basic-auth-token": "^0.4.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
+    "chai-http": "^4.4.0",
     "dotenv": "^8.2.0",
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
@@ -32,8 +32,8 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "password-validator": "^5.0.2",
-    "superagent": "^5.1.0",
-    "supertest": "^4.0.2",
+    "superagent": "^7.0.2",
+    "supertest": "^6.2.0",
     "uuid": "^3.3.3",
     "winston": "^3.2.1"
   }
